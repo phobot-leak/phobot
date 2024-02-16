@@ -2,6 +2,7 @@ phobot leak ez.
 
 1.20.1 fabric
 
+**You need the plugins in your pingbypass folder**
 
 1. Put the Phobos file in the "mods" folder. 
 2. Run the game. 
