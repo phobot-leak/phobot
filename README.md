@@ -18,3 +18,5 @@ good blocker
 Click GUI:
 
 ![2024-02-15_16 12 02](https://github.com/phobot-leak/phobot/assets/156855429/d6a36a0e-08e2-4669-adc7-45dc1dad26e4)
+
+dm ChronosUser and seasnail1 on discord for questions
