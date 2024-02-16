@@ -11,3 +11,5 @@ phobot leak ez.
 5. Then Launch
 
 By following these steps, you should be able to get Phobot up and running without any issues.
+
+dm seasnail1 or chronosuser on discord for help
