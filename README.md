@@ -12,4 +12,8 @@ phobot leak ez.
 
 By following these steps, you should be able to get Phobot up and running without any issues.
 
-dm seasnail1 or chronosuser on discord for help
+it has decent automine on cc and other servers
+good blocker
+
+[https://cdn.discordapp.com/attachments/1184325687373475972/1207841839164555274/2024-02-15_16.12.02.png?ex=65e11d5f&is=65cea85f&hm=28a820dfcf65ee4b66b1e9bea085f68d92e80059a74bf76b01a6fa9e5ce1b95b&
+](url)
